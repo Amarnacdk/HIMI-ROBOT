@@ -1,9 +1,9 @@
-# GRAND OFFICIAL
+# HIMI (🇮🇳)
 
-DEPLOY HERE - [GRAND OFFICIAL](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT&template=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT)
+DEPLOY HERE - [HIMI (🇮🇳)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsrinivasop%2FHIMI-ROBOT&template=https%3A%2F%2Fgithub.com%2Fsrinivasop%2FHIMI-ROBOT)
 [.](https://heroku.com/deploy)
-Credits - [LEGEND X](https://t.me/legendx22)
+Devployer - [srinivasop](https://t.me/PYTHON_CODER_SRINIVAS)
 
 # TELEGRAM
-Check me on [TELEGRAM](https://t.me/grand50_bot)
-# TOTORIAL [OFFICIAL VIDEO](https://youtu.be/JK9cLTDZUR0)
+Check me on [TELEGRAM](https://t.me/trust_care_love_bot)
+
