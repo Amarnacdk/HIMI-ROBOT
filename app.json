@@ -33,20 +33,20 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "1100231654"
+         "value": "1413280026"
       },
       "OWNER_NAME": {
          "description": "Your username",
-         "value": "LEGENDX22"
+         "value": "Trust_care_love"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
          "value": "1100231654"
       },
-"GRAND_IMG": {
+"HIMI_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg"    
+         "value": "https://telegra.ph/file/3adeec11064cd96abeaa8.jpg"    
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -114,7 +114,7 @@
       "manager",
       "bot"
    ],
-   "logo": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg",
-   "name": "GRAND OFFICIAL",
-   "repository": "https://github.com/legendx22/GRANDROBOT"
+   "logo": "https://telegra.ph/file/3adeec11064cd96abeaa8.jpg",
+   "name": "HIMI (🇮🇳)",
+   "repository": "https://github.com/srinivasop/HIMI-ROBOT"
 }
