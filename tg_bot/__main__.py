@@ -31,10 +31,8 @@ I am an **SUPERB**  group management bot.
 You can find the list of available commands with /help.
 
 """
-
 HELP_STRINGS = """
-
-Hello! my name *{}*.
+Hey there! My name is *{}*.
 
 *Main* commands available:
  - /start: start the bot
@@ -44,11 +42,11 @@ Hello! my name *{}*.
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
 
-
 {}
-And the following:
-""".format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
-
+Here is modules:
+""".format(
+    dispatcher.bot.first_name, ""
+    if not ALLOW_EXCL else "\nAll commands can be triggered with the following: /, !.\n")
 TECHNO_IMG = "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg"
 IMPORTED = {}
 MIGRATEABLE = []
